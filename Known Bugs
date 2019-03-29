@@ -1,5 +1,0 @@
-here are the known bugs in the code:
-1. MAX and MIN are not being calculated correctly, its showing as vice-versa
-2. Escape sequence for columns names not working
-3. Threshold percentage for categorisation of columns into different categories has to be made dynamic.
-4. Histogram is pending
